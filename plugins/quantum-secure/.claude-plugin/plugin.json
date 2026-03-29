@@ -2,8 +2,11 @@
   "name": "quantum-secure",
   "version": "0.1.0",
   "description": "Scan, migrate, and validate codebases for post-quantum cryptographic security using NIST FIPS 203/204/205 standards (ML-KEM, ML-DSA, SLH-DSA).",
-  "author": "quantum-security",
+  "keywords": ["quantum", "post-quantum", "cryptography", "pqc", "nist", "ml-kem", "ml-dsa", "slh-dsa", "security"],
+  "author": {
+    "name": "joestein"
+  },
   "license": "Apache-2.0",
-  "skills": ["quantum-secure"],
-  "agents": ["scanner", "migrator", "validator"]
+  "repository": "https://github.com/joestein/quantum-security",
+  "homepage": "https://github.com/joestein/quantum-security#readme"
 }
