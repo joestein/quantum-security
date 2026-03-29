@@ -1,0 +1,15 @@
+{
+  "name": "quantum-security",
+  "description": "Post-quantum cryptography migration tools for Claude Code",
+  "owner": {
+    "name": "joestein"
+  },
+  "plugins": [
+    {
+      "name": "quantum-secure",
+      "description": "Scan, migrate, and validate codebases for post-quantum cryptographic security using NIST FIPS 203/204/205 standards",
+      "source": "./plugins/quantum-secure",
+      "version": "0.1.0"
+    }
+  ]
+}
