@@ -1,0 +1,9 @@
+{
+  "name": "quantum-secure",
+  "version": "0.1.0",
+  "description": "Scan, migrate, and validate codebases for post-quantum cryptographic security using NIST FIPS 203/204/205 standards (ML-KEM, ML-DSA, SLH-DSA).",
+  "author": "quantum-security",
+  "license": "Apache-2.0",
+  "skills": ["quantum-secure"],
+  "agents": ["scanner", "migrator", "validator"]
+}
